@@ -15,5 +15,7 @@ public class Main
       
         System.out.println("test1");
         System.out.println("updated from other developer");
+        
+        System.out.println("test2");
      }
 }
